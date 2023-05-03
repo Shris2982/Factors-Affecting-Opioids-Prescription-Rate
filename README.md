@@ -1,5 +1,6 @@
 # Factors-Affecting-Opioids-Prescription-Rate
 Jupyter Notebook
+#
 Dataset Link - https://data.cms.gov/provider-summary-by-type-of-service/medicare-part-d-prescribers/medicare-part-d-prescribers-by-provider-and-drug/data
 
 • Conducted exploratory data analysis on a large Medicare part D dataset (25 million records), leveraging pre-processing techniques to extract a prescription rate column and grouping it by prescriber state and prescriber specialty, while integrating state policies.
